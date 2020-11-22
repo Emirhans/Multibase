@@ -1,0 +1,88 @@
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe.config
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\bin\Debug\a1q-hub.pdb
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\bin\Debug\en\a1q-hub.resources.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\bin\Debug\mzn-IR\a1q-hub.resources.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csprojResolveAssemblyReference.cache
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.resources
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.Properties.Resources.resources
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.en.resources
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.mzn-IR.resources
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.GenerateResource.Cache
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\en\a1q-hub.resources.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\mzn-IR\a1q-hub.resources.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.pdb
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\a1q-hub\a1q-hub\bin\Debug\MySql.Data.dll
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.MainForm.resources
+C:\Users\emirh\Documents\Visual Studio 2015\Projects\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe.config
+C:\Users\emirh\Documents\Visual Studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.exe
+C:\Users\emirh\Documents\Visual Studio 2015\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.pdb
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe.config
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q-hub.exe
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q-hub.pdb
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csprojResolveAssemblyReference.cache
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.resources
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q_hub.MainForm.resources
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q_hub.Properties.Resources.resources
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.en.resources
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.mzn-IR.resources
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.GenerateResource.Cache
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\bin\Debug\a1q-hub.pdb
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\bin\Debug\en\a1q-hub.resources.dll
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\bin\Debug\mzn-IR\a1q-hub.resources.dll
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\en\a1q-hub.resources.dll
+C:\Users\emirh\Documents\GitHub\a\a1q-hub\a1q-hub\obj\Debug\mzn-IR\a1q-hub.resources.dll
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe.config
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\bin\Debug\a1q-hub.pdb
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\bin\Debug\en\a1q-hub.resources.dll
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\bin\Debug\mzn-IR\a1q-hub.resources.dll
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csprojResolveAssemblyReference.cache
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.resources
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q_hub.MainForm.resources
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q_hub.Properties.Resources.resources
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.en.resources
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.mzn-IR.resources
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.GenerateResource.Cache
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\en\a1q-hub.resources.dll
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\mzn-IR\a1q-hub.resources.dll
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q-hub.exe
+D:\07-05-2019 YEDEK\a1q-hub\a1q-hub\obj\Debug\a1q-hub.pdb
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe.config
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\bin\Debug\a1q-hub.pdb
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\bin\Debug\en\a1q-hub.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\bin\Debug\mzn-IR\a1q-hub.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csprojAssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q_hub.MainForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q_hub.Properties.Resources.resources
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.en.resources
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.mzn-IR.resources
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.GenerateResource.cache
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\en\a1q-hub.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\mzn-IR\a1q-hub.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.CopyComplete
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q-hub.exe
+C:\Users\emirh\OneDrive\Masaüstü\a1q-hub\a1q-hub\obj\Debug\a1q-hub.pdb
+D:\Projects\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe.config
+D:\Projects\a1q-hub\a1q-hub\bin\Debug\a1q-hub.exe
+D:\Projects\a1q-hub\a1q-hub\bin\Debug\a1q-hub.pdb
+D:\Projects\a1q-hub\a1q-hub\bin\Debug\en\a1q-hub.resources.dll
+D:\Projects\a1q-hub\a1q-hub\bin\Debug\mzn-IR\a1q-hub.resources.dll
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csprojAssemblyReference.cache
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.resources
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.MainForm.resources
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.Properties.Resources.resources
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.en.resources
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q_hub.LoginForm.mzn-IR.resources
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.GenerateResource.cache
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.CoreCompileInputs.cache
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\en\a1q-hub.resources.dll
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\mzn-IR\a1q-hub.resources.dll
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.csproj.CopyComplete
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.exe
+D:\Projects\a1q-hub\a1q-hub\obj\Debug\a1q-hub.pdb

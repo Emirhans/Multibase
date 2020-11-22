@@ -1,0 +1,4 @@
+localhost
+a1q_users
+root
+

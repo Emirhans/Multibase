@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Example Web Site</title>
+</head>
+<body>
+<div>Example1</div>
+<div>Example2</div>
+<div>Example3</div>
+<div>Example4</div>
+</body>
+</html>
